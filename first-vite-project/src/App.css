@@ -1,0 +1,99 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #1F1F23;
+  color: #51F916;
+  
+}
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #18181B;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  display: flex;
+}
+
+.navbarItem {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+.oge {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.oge:hover {
+  background-color: #ffffff;
+  color:#18181B;
+}
+
+.navbarItem:last-child {
+  border-right: none;
+  
+}
+
+.header {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 100px;
+  text-align: center;
+  color: #51F916;
+}
+
+.mainPicture {
+  border-radius: 50%;
+  width:30%;
+  margin: 25px auto;
+}
+
+.photo {
+  text-align: center;
+}
+
+.text {
+  margin: 25px 150px auto 150px;
+  font-family: sans-serif, serif;
+}
+
+footer {
+  background-color: #18181B;
+  padding: 5px;
+  text-align: center;
+  width: auto;
+  height: 55px;
+  margin-top: 100px;
+  
+}
+
+.social-media-icons a{
+  
+  color: white;
+  padding: 10px;
+  
+ 
+}
+
+.social-media-icons a i {
+  font-size: 35px;
+  margin-top: 10px;
+}
+
+h4 {
+  font-size: 38px;
+  color: #51F916;
+}
+p {
+  font-size: 20px;
+  
+}
+
+i:hover{
+  color:#51F916;
+}
