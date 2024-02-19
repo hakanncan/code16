@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+section{
+    margin:30px auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    width: 60%;
+
+}
+
+header{
+    text-align: center;
+
+}
+
+h1{
+    font-family: 'Tangerine', serif;
+    font-size: 50px;
+    text-shadow: 4px 4px 4px #aaa;
+    
+
+}
+
+img{
+    width: 30%;
+    margin: 8px;
+    height: 225px;
+    object-fit: cover;
+
+}
